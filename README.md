@@ -13,7 +13,7 @@
 <h1>
 <h2>
   About me :
- </h2>
+</h2>
   <p>
     <br>
     I'm Lucas Moreau, <br> <br>
