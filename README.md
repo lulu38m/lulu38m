@@ -18,8 +18,6 @@
     <br>
     I'm Lucas Moreau, <br> <br>
     - 🌱 I’m currently learning at <a href="https://www.supinfo.com/">Supinfo.</a>
-    <br>
-    Mainly oriented in backend/frontend web development.
   </p>
   
   <h2>
