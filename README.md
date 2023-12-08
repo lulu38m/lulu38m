@@ -25,7 +25,6 @@
   </h2>
   
 <a href="mailto:lucas.moreau@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
- <a href="#"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
 
  <h2>
     Languages and Tools:
