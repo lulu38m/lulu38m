@@ -26,6 +26,11 @@
   
 <a href="mailto:lucas.moreau@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 
+<h2>
+    Stats :
+  </h2>
+  <img src="http://158.178.197.230:8080/stats/language">
+  
  <h2>
     Languages and Tools:
   </h2>
