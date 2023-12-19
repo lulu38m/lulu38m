@@ -17,14 +17,33 @@
   <p>
     <br>
     I'm Lucas Moreau, <br> <br>
-    - 🌱 I’m currently learning at <a href="https://www.supinfo.com/">Supinfo.</a>
+    - 🌱 I’m currently learning at <a href="https://www.supinfo.com/">Supinfo.</a><br><br>
+    <H3>
+        Experiences and projects :
+    </H3> <br>
+      - Kodoka : participation in the creation of a software program to manage firefighters' associations. <br>
+       tools used :  PHP/AJAX , phpmyadmin, bootstrap
+        <br><br>
+    - ApiGithub : creation of an api to display github statistics. <br>
+         tools used : Go, docker, Github api
+        <br><br>
+    - Neuvoja RH : Development of a website for neuvoja RH. <br>
+         tools used : Svelte, Tailwind
+
   </p>
   
   <h2>
     Connect with me :
   </h2>
   
-<a href="mailto:lucas.moreau@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+<p>
+    Addresse mail : 
+    <a href="mailto:lucas.moreau@supinfo.com">lucasmoreau@supinfo.com</a>
+</p>
+<p>
+    Instagram :
+    <a href="https://www.instagram.com/lulu_38m/">lulu38m</a>
+</p>
 
 <h2>
     Stats :
