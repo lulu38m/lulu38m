@@ -27,7 +27,7 @@
     - ApiGithub : creation of an api to display github statistics. <br>
          tools used : Go, Docker, Insomnia, Github api
         <br><br>
-    - Neuvoja RH : Development of a website for neuvoja RH. <br>
+    - Neuvoja RH : Development of a website for Neuvoja RH. <br>
          tools used : Svelte, Tailwind
 
   </p>
