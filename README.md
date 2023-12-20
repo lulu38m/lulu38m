@@ -25,7 +25,7 @@
        tools used :  PHP/AJAX , phpmyadmin, bootstrap
         <br><br>
     - ApiGithub : creation of an api to display github statistics. <br>
-         tools used : Go, docker, Github api
+         tools used : Go, docker, Insomnia, Github api
         <br><br>
     - Neuvoja RH : Development of a website for neuvoja RH. <br>
          tools used : Svelte, Tailwind
