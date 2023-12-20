@@ -22,10 +22,10 @@
         Experiences and projects :
     </H3> <br>
       - Kodoka : participation in the creation of a software program to manage firefighters' associations. <br>
-       tools used :  PHP/AJAX , phpmyadmin, bootstrap
+       tools used :  PHP/AJAX , phpmyadmin, Bootstrap
         <br><br>
     - ApiGithub : creation of an api to display github statistics. <br>
-         tools used : Go, docker, Insomnia, Github api
+         tools used : Go, Docker, Insomnia, Github api
         <br><br>
     - Neuvoja RH : Development of a website for neuvoja RH. <br>
          tools used : Svelte, Tailwind
