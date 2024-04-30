@@ -44,12 +44,13 @@
     Instagram :
     <a href="https://www.instagram.com/lulu_38m/">lulu38m</a>
 </p>
-
+<div class="stats" align="center">
 <h2>
     Stats :
   </h2>
   <img src="http://158.178.197.230:8080/stats/language">
-  
+  <p align="center" style="margin-top="><img src="https://komarev.com/ghpvc/?username=lulu38m&label=Profile%20views&color=0e75b6&style=flat"/></p>
+</div>
  <h2>
     Languages and Tools:
   </h2>
@@ -63,9 +64,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="50" width="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" width="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" />
-
-
-
-
   </div>
   </body>
