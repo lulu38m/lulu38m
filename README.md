@@ -48,8 +48,8 @@
 <h2>
     Stats :
   </h2>
+      <p align="center" style="margin-top="><img src="https://komarev.com/ghpvc/?username=lulu38m&label=Profile%20views&color=0e75b6&style=flat"/></p>
   <img src="http://158.178.197.230:8080/stats/language">
-  <p align="center" style="margin-top="><img src="https://komarev.com/ghpvc/?username=lulu38m&label=Profile%20views&color=0e75b6&style=flat"/></p>
 </div>
  <h2>
     Languages and Tools:
