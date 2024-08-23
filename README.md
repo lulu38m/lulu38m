@@ -34,7 +34,9 @@ Development of a website for Neuvoja RH.
 
 <div align="center">
   <h2>📊 Stats</h2>
-  <img src="https://komarev.com/ghpvc/?username=lulu38m&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=lulu38m&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+        <br>
+    <a href="https://wakatime.com/@dc389ce3-5b3a-45e2-8ecb-0448dc256a06"><img src="https://wakatime.com/badge/user/dc389ce3-5b3a-45e2-8ecb-0448dc256a06.svg" alt="Total time coded since Mar 29 2023" /></a>
   <br>
   <img src="http://158.178.197.230:8080/stats/language" alt="GitHub Language Stats"/>
 </div>
