@@ -22,9 +22,9 @@ Participation in the creation of a software program to manage firefighters' asso
 Creation of an API to display GitHub statistics.
 - **Tools used:** Go, Docker, Insomnia, GitHub API
 
-### 🧑‍💼 Neuvoja RH
-Development of a website for Neuvoja RH.
-- **Tools used:** Svelte, Tailwind CSS
+### 🧑‍💼 App Idrt
+Development of a customer management application 
+- **Tools used:** Go, Svelte, Tailwind, Wails
 
 ## 📫 Connect with Me
 
